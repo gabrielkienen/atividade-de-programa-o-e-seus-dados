@@ -1,0 +1,16 @@
+String endereco; 
+Int telefone;
+Real salario;
+Int cpf;
+Real preco;
+String temperatura;
+Booelana casado;
+Data nascimento;
+Booelana vacinado;
+Real preco_gasolina;
+Int litros_gasolina;
+Real preco_pao;
+Real total_compras;
+Int idade;
+Data data_contrato;
+String nivel_escolaridade;
